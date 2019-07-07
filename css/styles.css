@@ -8,6 +8,14 @@ h1 {
   text-align: center;
   font-style: italic;
 }
+h2 {
+  text-align: center;
+}
+h4 {
+  font-style: italic;
+  font-size: 19px;
+  padding:13px;
+}
 body{
-  background-image: url("../images/background.jpg");
+  background-image: url("../images/marble3.jpg");
 }

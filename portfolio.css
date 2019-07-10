@@ -4,6 +4,12 @@
 .hobbies{
   padding-left: 200px;
 }
+.image img{
+  height: 100px;
+  width: 100px;
+  margin-top: -300px;
+
+}
 h1 {
   text-align: center;
   font-style: italic;

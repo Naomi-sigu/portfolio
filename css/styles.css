@@ -11,11 +11,6 @@ h1 {
 h2 {
   text-align: center;
 }
-h4 {
-  font-style: italic;
-  font-size: 19px;
-  padding:13px;
-}
-body{
+body {
   background-image: url("../images/marble3.jpg");
 }

@@ -8,9 +8,9 @@ h1 {
   text-align: center;
   font-style: italic;
 }
-.image_background{
-  background-color: grey;
-  background-size: cover;
-
+h2 {
+  text-align: center;
 }
-
+body {
+  background-image: url("images/back3.jpg");
+}

@@ -8,6 +8,7 @@ This is a portfolio showing information about myself and some of the project i h
 
 ## Screenshot
 <img src="https://github.com/Naomi-sigu/screenshot/blob/master/screenshot.png" width="1000">
+
 ## Setup/Installation Requirements
 
 > Download a zip file of the project
